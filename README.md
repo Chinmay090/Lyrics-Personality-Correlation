@@ -8,3 +8,5 @@ The selected study studies the associations between participant personality trai
 A person’s musical taste is reflective of “the overall patterning of their preferences for music over “longer” periods of time”, according to the American Psychological Association. Personality traits reflect an individual’s characteristic pattern of thoughts, feelings, and behaviours. 
 
 The above study has been replicated in the Indian setting amongst an average college population. The project employs standard questionnaires for obtaining information about the individuals’ music taste, preference for various musical features, and personality traits. Lyrics Inquiry and Word Count (LIWC) is used to analyse the lyrical aspect of the user-input songs and correlate them with the data obtained from the other tests. 
+
+This was a team project from the Music, Mind and Technology course at IIIT-H
